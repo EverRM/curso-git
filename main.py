@@ -13,7 +13,7 @@ reset="\033[39m"
   
 puntaje=random.randint(0, 20)
 participante=input("Bienvenido participante, como podemos nombrarte: ")
-print(" ****************************************")
+print(" *************************************************")
 print(participante +", Vamos a poner a prueba tus conocimientos")
 
 print("sobre los componentes de una Pc\n")
