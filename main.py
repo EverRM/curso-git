@@ -173,8 +173,8 @@ while True:
   
   if rpta5 !="si":
  
-    break  
-print("\n*******Cerrando Trivia************\n") 
+    break 
+print("\n*******Cerrando Trivia*************\n") 
 time.sleep(1)
 
 print("\n*******Esperamos su Regreso************\n")    
